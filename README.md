@@ -31,6 +31,7 @@ They include the following activities:
 ## EDA
 I carried out several analysis including univariate,bivariate and multivariates.
 The analysis between the count of churn showed that it was not balanced.
+
 ## MODELING
 I performed 2 classification modelling that is:
 1. Logistic Regression 
