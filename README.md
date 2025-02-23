@@ -16,24 +16,24 @@ To analyze customer behaviour,call usage and the interaction with customer servi
 6.	To identify the relationship between the day/night minutes and there charge
 ## DATA UNDERSTANDING
 The following activities are conducted:
-1.Import the relevant libraries
-2..Loading the data set
-3.Checking the head and tail to determine if they are corrupted or not
-4.Checking the shape,dtypes and info
-5.Checking the statistical summary
+1. Import the relevant libraries
+2. Loading the data set
+3. Checking the head and tail to determine if they are corrupted or not
+4. Checking the shape,dtypes and info
+5. Checking the statistical summary
 ## DATA PREPARATION
 They include the following activities:
-1.checking the unique values in each categorical columns
-2checking the missing values.
-3.checking for duplicates
-4.dropping unnecessary columns
+1. checking the unique values in each categorical columns
+2. checking the missing values.
+3. checking for duplicates
+4. dropping unnecessary columns
 ## EDA
 I carried out several analysis including univariate,bivariate and multivariates.
 The analysis between the count of churn showed that it was not balanced.
 ## MODELING
 I performed 2 classification modelling that is:
-1.Logistic Regression 
-2.Decision Tree
+1. Logistic Regression 
+2. Decision Tree
 ### Logistic Regression 
 Under logistic regression I was able to do regression with unbalanced class and balanced class.In the unbalanced class I was able to get high accuracy of 89% while in the balanced I was able to get an accuracy of 48%.
 ### Decision tree using hyperparameter tuning
