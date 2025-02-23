@@ -3,6 +3,7 @@ SYRIATEL, A TELECOMMUNICATIONS COMPANY
 
 ## PROJECT OVERVIEW
 This project aim to build a model that will predict whether a customer is likely to leave SyriaTel soon.
+The dataset i used its [here(https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)]
 ## PROBLEM STATEMENT
 SyriaTel, a telecommunications company, is dealing with a critical concern which is customer churn. This poses threats to revenue, and deepens the issue of long-term sustainability. They are presented with the task of determining which customers are most likely to stop using their services, as well as understanding the reasons why these choices are made so that the company can address these concerns.
 ##  MAIN OBJECTIVES¶
