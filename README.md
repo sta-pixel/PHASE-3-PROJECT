@@ -31,6 +31,7 @@ They include the following activities:
 ## EDA
 I carried out several analysis including univariate,bivariate and multivariates.
 The analysis between the count of churn showed that it was not balanced.
+Here its a class imbalanced picture [here(https://github.com/sta-pixel/PHASE-3-PROJECT/blob/f34f5bf7840734596c0a551c09a6d9bc67431d22/Screenshot%20(278).png)]
 
 ## MODELING
 I performed 2 classification modelling that is:
